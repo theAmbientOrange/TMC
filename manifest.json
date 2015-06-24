@@ -1,7 +1,7 @@
 {
 "manifest_version":2,
 "name":"That's My Cue",
-"version":"-0.01",
+"version":"0.0.01",
 "default_locale":"en",
 "description":"Why"
 }
