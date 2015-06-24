@@ -3,5 +3,5 @@
 "name":"That's My Cue",
 "version":"0.0.01",
 "description":"Why",
-"permissions":["identity"]
+"permissions":["signedInDevices"]
 }
