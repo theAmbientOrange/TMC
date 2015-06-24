@@ -3,5 +3,9 @@
 "name":"That's My Cue",
 "version":"0.0.01",
 "description":"Why",
+"background":{
+  "scripts":["poop.js"],
+  "persistent":false
+},
 "permissions":["signedInDevices"]
 }
