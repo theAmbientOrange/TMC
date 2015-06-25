@@ -10,4 +10,4 @@ function getLocal(devices){
 }
 
 /*Test run of get local devices.  Fuck your mom.*/
-chrome.signedInDevices.get(true,getLocal);
+chrome.signedInDevices.onDeviceInfoChange.addListener(getLocal);
