@@ -1,6 +1,8 @@
 /* What the fuck did you fucking say to me you fucking fagot.*/
 
-function getLocal(DeviceInfo[] devices){
+
+/*devices is an array of DeviceInfo of local device*/
+function getLocal(devices){
   if(devices.length == 1){
     alert("Hey fuck you");
   }
