@@ -3,7 +3,8 @@
 
 /*devices is an array of DeviceInfo of local device*/
 function getLocal(devices){
-  if(devices.length == 1){
+  /* Sanity Checking*/
+  if(devices.length <= 1){
     alert("Hey fuck you");
   }
 }
